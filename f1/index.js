@@ -18,6 +18,6 @@ const makeCommit = n => {
         makeCommit.bind(this, --n));
     });
 }
-makeCommit(154);
+makeCommit(14);
 
 
