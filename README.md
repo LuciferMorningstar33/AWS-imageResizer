@@ -7,7 +7,7 @@ This Lambda will be invoked when a file is uploaded to a particular bucket. It w
 Clone the project
 
 ```bash
-  git clone https://github.com/OneLightWebDev/image-resizer-lambda.git
+  git clone https://github.com/LuciferMorningstar33/AWS-imageResizer.git
 ```
 
 Install Dependencies
